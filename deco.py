@@ -18,3 +18,4 @@ sleep(4)
 for i in range(2):
     sleep(1)
     foo()
+
